@@ -1,20 +1,26 @@
 export const workExperience = [
   {
-    title: `[Job Title]`,
-    company: `[Company Name]`,
-    years: `20XX - Present`,
-    logo: `/showlit/images/nvidia_logo.webp`,
+    title: `Machine Learning Engineering Intern`,
+    company: `Logitech`,
+    years: `September 2025 - February 2026`,
+    logo: `/showlit/images/logitech_logo.svg`
   },
   {
     title: `Software Engineering Intern`,
-    company: `Google`,
-    years: `Jul 2022 - Sep 2022`,
-    logo: `/showlit/images/google_logo.svg`,
+    company: `Garmin`,
+    years: `May 2023 - August 2023`,
+    logo: `/showlit/images/garmin_logo.svg`
   },
   {
-    title: `Research Assistant`,
-    company: `University of Illinois Urbana-Champaign`,
-    years: `Jul 2019 - Sep 2019`,
-    logo: `/showlit/images/uiuc_logo.png`,
+    title: `Software Engineering Intern`,
+    company: `Commscope`,
+    years: `May 2022 - August 2022`,
+    logo: `/showlit/images/garmin_logo.svg`
   },
+  {
+    title: `Mechanical Engineering Intern`,
+    company: `University of Florida Startup`,
+    years: `November 2019 - March 2021`,
+    logo: `/showlit/images/garmin_logo.svg`
+  }
 ];
